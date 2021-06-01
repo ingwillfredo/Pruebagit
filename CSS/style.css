@@ -8,6 +8,8 @@
 
 Body{
   background-color: aqua;
+  font-weight: bold;
+  color: brown;
 }
 
 nav ul a,
